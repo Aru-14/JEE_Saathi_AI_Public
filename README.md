@@ -1,6 +1,6 @@
 # 🧠 JEE Saathi AI: A Cognitive Mentor for JEE Aspirants
 
-## Demo Video Link : [https://youtu.be/TATIbj_ePuo]
+## Full Detailed Demo Video Link : [https://youtu.be/TATIbj_ePuo]
 
 **JEE Saathi AI** is a specialized AI powered ecosystem designed to bridge the gap between high-stakes competitive preparation and student well-being. Built for the 2026 JEE cycle, it focuses on **subject equilibrium**, **factual rigor**, and **burnout prevention**.
 
